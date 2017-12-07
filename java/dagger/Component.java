@@ -47,7 +47,7 @@ import javax.inject.Singleton;
  *
  * <p>Provision methods have no parameters and return an {@link Inject injected} or
  * {@link Provides provided} type. Each method may have a {@link Qualifier} annotation as well. The
- * following are all valid provision method declarations: <pre><code>
+ * following are all valid provision method declarations: <pre> <code>
  *   SomeType getSomeType();
  *   {@literal Set<SomeType>} getSomeTypes();
  *   {@literal @PortNumber} int getPortNumber();
