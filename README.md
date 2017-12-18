@@ -216,3 +216,4 @@ install a copy in your local maven repository with the version `LOCAL-SNAPSHOT`.
 [square]: http://github.com/square/dagger/
 [squarecommunity]: https://plus.google.com/communities/109244258569782858265
 [website]: https://google.github.io/dagger
+
